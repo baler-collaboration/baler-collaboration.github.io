@@ -11,7 +11,7 @@ We introduce Baler, a tool that uses machine learning to derive compression algo
 The Baler project is a collaboration between 12 research physicists, computer scientists, and machine learning experts at the universities of Lund, Manchester, and Uppsala. Baler has already been used to compress scientific research data showing impressive performance.
 
 ![CFD](./figures/Baler1.gif "Computational Fluid Dynamics data compressed down to 0.5% of the original size")
-![HEP](./figures/Baler2.png "Data from the Large Hadron Collider compressed to 58% the original size")
+![HEP](./figures/Baler2_cropped.png "Data from the Large Hadron Collider compressed to 58% the original size")
 
 Baler has been featured at the [26th International Conference on Computing in High Energy \& Nuclear Physics](indico.jlab.org/event/459/contributions/11723/attachments/9295/13647/Baler\_v2.pdf) -- the largest computing conference of its kind. The Baler tool is documented in a [scientific paper](arxiv.org/pdf/2305.02283.pdf) and is developed and maintained as an open-source project on [GitHub](https://github.com/baler-collaboration/baler). Baler is also part of the [Docker-Sponsored Open Source program](hub.docker.com/r/balercollaboration/baler).
 
