@@ -16,7 +16,7 @@ Lossless compression preserves data in its entirety but as a consequence the amo
 
 However, in the same way as the MP3 compression uses Fourier transformation and psychoacoustics to specifically compress audio. A good lossy compression method for scientific data needs to be tailored to the data.
 
-We introduce Baler, a tool that uses machine learning to derive a compression compression that is tailored to the user's input data, achieving large data reduction and high fidelity where it matters.
+We introduce Baler, a tool that uses machine learning to derive a compression method that is tailored to the user's input data, achieving large data reduction and high fidelity where it matters.
 
 # Baler
 The Baler project is a collaboration between 12 research physicists, computer scientists, and machine learning experts at the universities of Lund, Manchester, and Uppsala. Baler has already been used to compress scientific research data showing impressive performance.
